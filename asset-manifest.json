@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/car_message/static/css/main.f855e6bc.css",
-    "main.js": "/car_message/static/js/main.d17f37d7.js",
+    "main.js": "/car_message/static/js/main.469ee6df.js",
     "static/js/787.8a34940f.chunk.js": "/car_message/static/js/787.8a34940f.chunk.js",
     "index.html": "/car_message/index.html",
     "main.f855e6bc.css.map": "/car_message/static/css/main.f855e6bc.css.map",
-    "main.d17f37d7.js.map": "/car_message/static/js/main.d17f37d7.js.map",
+    "main.469ee6df.js.map": "/car_message/static/js/main.469ee6df.js.map",
     "787.8a34940f.chunk.js.map": "/car_message/static/js/787.8a34940f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.d17f37d7.js"
+    "static/js/main.469ee6df.js"
   ]
 }
